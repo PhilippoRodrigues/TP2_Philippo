@@ -1,0 +1,262 @@
+/*index*/
+
+body {
+  font-family: "Arapey", serif;
+  font-size: 1.2em;
+  background-color: #fae6e5;
+}
+
+.imagem-cabecalho img {
+  position: relative;
+  width: 13%;
+  margin: 3% 44%;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 5em;
+  background: #f2bfb4;
+  padding: 11px 0;
+}
+
+nav li {
+  display: inline;
+  padding-left: 35px;
+}
+
+nav a {
+  color: #5b9195;
+  text-transform: uppercase;
+  font-weight: bolder;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+nav a:hover {
+  color: #e6826c;
+  text-decoration: underline;
+}
+
+main {
+  margin-bottom: 105px;
+}
+
+#subtitulo1 h2{
+  color: #d06442;
+  font-size: 3em;
+  text-align: center;
+}
+
+.banner {
+  width: 100%;
+  margin: 2.5em 0;
+  border-radius: 40px;
+}
+
+#subtitulo2 {
+  display: inline-block;
+  width: 500px;
+  position: relative;
+  margin-left: 10%;
+}
+
+#subtitulo2 h2 {
+  color: #d06442;
+  font-size: 1.6em;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+#subtitulo2 img {
+  margin-right: 5%;
+  float: left;
+  border-radius: 100%;
+}
+
+#subtitulo2 p {
+  text-align: justify;
+  vertical-align: top;
+  color: #62453b;
+  font-weight: bold;
+}
+
+#subtitulo3-localizacao {
+  display: inline-block;
+  width: 500px;
+  float: right;
+  margin-right: 10%;
+}
+
+#subtitulo3-localizacao h2 {
+  color: #d06442;
+  font-size: 1.6em;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+#subtitulo3-localizacao img {
+  margin-right: 5%;
+  margin-left: 1%;
+  float: left;
+  border-radius: 100%;
+}
+
+#subtitulo3-localizacao p {
+  text-align: justify;
+  color: #62453b;
+  font-weight: bold;
+  line-height: 1.2em;
+}
+
+#subtitulo3-localizacao p a:link {
+  text-decoration: none;
+  color: #d06442;
+}
+
+footer {
+  background: #62453b;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.copyright {
+  color: #f2bfb4;
+  font-size: 13px;
+  margin: 40px;
+}
+
+/*Contato*/
+
+#subtitulo1-contato img {
+  float: left;
+  display: inline-block;
+  width: 3%;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+#subtitulo1-contato h2{
+  color: #d06442;
+  font-size: 1.8em;
+  vertical-align: baseline;
+}
+
+#cardapio{
+  position: center;
+  margin: 0 50px;
+  padding-bottom: 50px;
+}
+
+#cardapio h1 {
+  color: #d06442;
+  font-size: 1.6em;
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 50px;
+  width: 100%;
+  margin-top: 100px;
+}
+
+#cardapio th {
+  width: 300px;
+  vertical-align: middle;
+  padding: 20px;
+  font-size: 25px;
+  color: #8e3b22;
+}
+
+#cardapio td{
+  vertical-align: middle;
+}
+
+#cardapio td:hover {
+  background: #f2bfb4;
+}
+
+.img-cafe {
+  padding-top: 20px;
+  padding-left: 26%;
+  vertical-align: middle;
+}
+
+.descricao-cafe {
+  padding-top: 20px;
+  padding-left: 80px;
+  color: #62453b;
+  font: 20px bolder;
+  vertical-align: middle;
+}
+
+.icone {
+  vertical-align: top;
+  width: 25px;
+}
+
+.preco-cafe {
+  text-align: center;
+  vertical-align: middle;
+}
+
+#frase-rodape {
+  text-align: center;
+  background: #f2bfb4;
+  color: #62453b;
+  padding: 15px;
+  margin-top: 3em;
+}
+
+/*Contato*/
+
+#formulario {
+  margin-left: 10px;
+}
+
+.titulo-contato {
+  color: #d06442;
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 2em;
+  text-transform: capitalize;
+  display: block;
+}
+
+form input {
+  margin: 20px 10px;
+  display: block;
+  width: 35%;
+  height: 30px;
+  color: #62453b;
+}
+
+#comentarios {
+  margin: 20px 10px;
+  display: block;
+  width: 35%;
+  height: 100px;
+  color: #62453b;
+}
+
+.submit {
+  display: block;
+  margin: 20px 10px;
+  width: 35.48%;
+  height: 40px;
+  font-family: "Arapey", serif;
+  background-color: #f2bfb4;
+  font-size: 20px;
+}
+
+.imagem-contato {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-right: 35%;
+}
+
+.imagem-contato img {
+  width: 300px;
+  height: 300px;
+  object-fit: fill;
+}
