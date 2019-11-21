@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49767fc7-9281-4d76-80e2-7e7debe4ddb4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2_Philippo/eventos.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/eventos.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TL9WDvJJGmY7BxSHy8f4ZHJ489" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/TP2_Philippo/contato.html&#10;true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TP2_Philippo/Modernizr" />
+      <recent name="$PROJECT_DIR$/TP2_Philippo/imagemContato" />
+      <recent name="$PROJECT_DIR$/TP2_Philippo/imagens" />
+      <recent name="$PROJECT_DIR$/TP2_Philippo/imagensCardapio" />
+      <recent name="$PROJECT_DIR$/TP2_Philippo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.cardapio.html">
+    <configuration name="cardapio.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TP2_Philippo/TP2_Philippo/cardapio.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TP2_Philippo/TP2_Philippo/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.cardapio.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49767fc7-9281-4d76-80e2-7e7debe4ddb4" name="Default Changelist" comment="" />
+      <created>1573228537849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573228537849</updated>
+      <workItem from="1573228538943" duration="4556000" />
+      <workItem from="1573259025204" duration="6553000" />
+      <workItem from="1573522804427" duration="500000" />
+      <workItem from="1573523455416" duration="42023000" />
+      <workItem from="1573746930634" duration="2463000" />
+      <workItem from="1574265470166" duration="12767000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90.">
+      <created>1574265587480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574265587480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90.">
+      <created>1574265637106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574265637106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90.">
+      <created>1574267990597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574267990597</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90." />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90." />
+  </component>
+</project>

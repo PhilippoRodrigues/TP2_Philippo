@@ -41,7 +41,7 @@ main {
   margin-bottom: 105px;
 }
 
-#subtitulo1 h2{
+#subtitulo1 h2 {
   color: #d06442;
   font-size: 3em;
   text-align: center;
@@ -125,7 +125,7 @@ footer {
   margin: 40px;
 }
 
-/*Contato*/
+/*Cardápio*/
 
 #subtitulo1-contato img {
   float: left;
@@ -135,19 +135,20 @@ footer {
   margin-right: 5px;
 }
 
-#subtitulo1-contato h2{
+#subtitulo1-contato h2 {
   color: #d06442;
   font-size: 1.8em;
   vertical-align: baseline;
 }
 
-#cardapio{
+#cardapio {
   position: center;
   margin: 0 50px;
   padding-bottom: 50px;
 }
 
-#cardapio h1 {
+#cardapio h1,
+.titulo-principal {
   color: #d06442;
   font-size: 1.6em;
   font-weight: bolder;
@@ -167,7 +168,7 @@ footer {
   color: #8e3b22;
 }
 
-#cardapio td{
+#cardapio td {
   vertical-align: middle;
 }
 
@@ -209,29 +210,39 @@ footer {
 
 /*Contato*/
 
-#formulario {
-  margin-left: 10px;
+#formulario .subtitulo-contato, #formulario form, #formulario input, #formulario .submit, #comentarios{
+  margin: 20px 15px;
 }
 
 .titulo-contato {
   color: #d06442;
-  font-size: 2em;
+  font-size: 1.5em;
   text-align: center;
   margin-bottom: 2em;
   text-transform: capitalize;
   display: block;
 }
 
-form input {
-  margin: 20px 10px;
+#formulario .subtitulo-contato{
+  color: #d06442;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#formulario form {
+  margin-left: 15px;
+  color: #62453b;
+  font-weight: bold;
+}
+
+#formulario input {
   display: block;
   width: 35%;
   height: 30px;
-  color: #62453b;
 }
 
 #comentarios {
-  margin: 20px 10px;
+  margin: 20px 15px;
   display: block;
   width: 35%;
   height: 100px;
@@ -240,7 +251,6 @@ form input {
 
 .submit {
   display: block;
-  margin: 20px 10px;
   width: 35.48%;
   height: 40px;
   font-family: "Arapey", serif;
@@ -248,15 +258,19 @@ form input {
   font-size: 20px;
 }
 
-.imagem-contato {
-  width: 100px;
-  height: 100px;
-  float: right;
-  margin-right: 35%;
-}
-
-.imagem-contato img {
+#formulario img {
   width: 300px;
   height: 300px;
+  float: right;
+  margin-right: 20%;
   object-fit: fill;
+}
+
+/*Local*/
+
+.mapa {
+  width: 940px;
+  height: 450px;
+  margin: 0 auto;
+  padding-bottom: 50px;
 }
