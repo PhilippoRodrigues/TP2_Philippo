@@ -210,7 +210,11 @@ footer {
 
 /*Contato*/
 
-#formulario .subtitulo-contato, #formulario form, #formulario input, #formulario .submit, #comentarios{
+#formulario .subtitulo-contato,
+#formulario form,
+#formulario input,
+#formulario .submit,
+#comentarios {
   margin: 20px 15px;
 }
 
@@ -223,7 +227,7 @@ footer {
   display: block;
 }
 
-#formulario .subtitulo-contato{
+#formulario .subtitulo-contato {
   color: #d06442;
   font-size: 30px;
   font-weight: bold;
@@ -273,4 +277,10 @@ footer {
   height: 450px;
   margin: 0 auto;
   padding-bottom: 50px;
+}
+
+.mapa-conteudo iframe {
+  width: 940px;
+  height: 450px;
+  border: 0;
 }
