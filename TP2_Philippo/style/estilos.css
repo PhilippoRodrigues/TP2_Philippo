@@ -35,6 +35,8 @@ nav a {
 nav a:hover {
   color: #e6826c;
   text-decoration: underline;
+  background: #fae6e5;
+  padding: 11px;
 }
 
 main {
@@ -47,10 +49,30 @@ main {
   text-align: center;
 }
 
-.banner {
+.imagem-banner {
   width: 100%;
   margin: 2.5em 0;
   border-radius: 40px;
+}
+
+.circulo-imagem {
+  width: 250px;
+  height: 250px;
+  background-color: rgba(208,100,66,0.7);
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto-circulo{
+  color: #62453b;
+  font-weight: bold;
+  font-size: 34px;
 }
 
 #subtitulo2 {
@@ -82,8 +104,8 @@ main {
 
 #subtitulo3-localizacao {
   display: inline-block;
-  width: 500px;
   float: right;
+  width: 500px;
   margin-right: 10%;
 }
 
@@ -111,6 +133,18 @@ main {
 #subtitulo3-localizacao p a:link {
   text-decoration: none;
   color: #d06442;
+}
+
+#subtitulo2 img:hover{
+  box-shadow: 0 10px 10px rgba(98,69,59, .3);
+  transition: box-shadow .8s ease-in-out;
+  transform: scale(1.2);
+}
+
+#subtitulo3-localizacao img:hover{
+  box-shadow: 0 10px 10px rgba(98,69,59, .3);
+  transition: box-shadow .8s ease-in-out;
+  transform: scale(1.2);
 }
 
 footer {
@@ -147,6 +181,19 @@ footer {
   padding-bottom: 50px;
 }
 
+td:first-child {
+  background-color: #f2bfb4;
+}
+
+td:nth-child(even) {
+  background-color: #ebc5bd;
+}
+
+td:last-child{
+  background-color: #e3cbc6;
+}
+
+
 #cardapio h1,
 .titulo-principal {
   color: #d06442;
@@ -173,12 +220,11 @@ footer {
 }
 
 #cardapio td:hover {
-  background: #f2bfb4;
+  background: #fae6e5;
 }
 
 .img-cafe {
-  padding-top: 20px;
-  padding-left: 26%;
+  padding: 20px 0 20px 100px;
   vertical-align: middle;
 }
 

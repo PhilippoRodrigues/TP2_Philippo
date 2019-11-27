@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49767fc7-9281-4d76-80e2-7e7debe4ddb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2_Philippo/eventos.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/eventos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Philippo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Philippo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2_Philippo/cardapio.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/cardapio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2_Philippo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2_Philippo/style/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/style/estilos.css" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +34,11 @@
   </component>
   <component name="ProjectId" id="1TL9WDvJJGmY7BxSHy8f4ZHJ489" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="TODO_SCOPE" value="Project Files" />
@@ -51,24 +57,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TP2_Philippo/imagens" />
       <recent name="$PROJECT_DIR$/TP2_Philippo/Modernizr" />
       <recent name="$PROJECT_DIR$/TP2_Philippo/imagemContato" />
-      <recent name="$PROJECT_DIR$/TP2_Philippo/imagens" />
       <recent name="$PROJECT_DIR$/TP2_Philippo/imagensCardapio" />
       <recent name="$PROJECT_DIR$/TP2_Philippo" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.cardapio.html">
     <configuration name="cardapio.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TP2_Philippo/TP2_Philippo/cardapio.html" useBuiltInWebServerPort="true">
@@ -83,6 +77,18 @@
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -99,7 +105,13 @@
       <workItem from="1573522804427" duration="500000" />
       <workItem from="1573523455416" duration="42023000" />
       <workItem from="1573746930634" duration="2463000" />
-      <workItem from="1574265470166" duration="13671000" />
+      <workItem from="1574265470166" duration="14156000" />
+      <workItem from="1574471460870" duration="1808000" />
+      <workItem from="1574536207242" duration="256000" />
+      <workItem from="1574814952115" duration="77000" />
+      <workItem from="1574815079026" duration="22000" />
+      <workItem from="1574815115738" duration="8024000" />
+      <workItem from="1574856850023" duration="15322000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90.">
       <created>1574265587480</created>
@@ -133,7 +145,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -142,5 +156,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90." />
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="126" width="800" height="719" key="#Intentions" timestamp="1574818565859">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="126" width="800" height="719" key="#Intentions/0.23.1440.877@0.23.1440.877" timestamp="1574818565859" />
+    <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574815092430">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1574815092430" />
+    <state x="458" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1574865832532">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1574865832532" />
   </component>
 </project>
