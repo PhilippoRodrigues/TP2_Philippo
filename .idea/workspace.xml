@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49767fc7-9281-4d76-80e2-7e7debe4ddb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TP2_Philippo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2_Philippo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP2_Philippo/cardapio.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/cardapio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP2_Philippo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2_Philippo/style/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_Philippo/style/estilos.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/TP2_Philippo/contato.html&#10;true" />
@@ -112,6 +110,7 @@
       <workItem from="1574815079026" duration="22000" />
       <workItem from="1574815115738" duration="8024000" />
       <workItem from="1574856850023" duration="15322000" />
+      <workItem from="1574883494801" duration="163000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;Versão inicial no Github&quot;&#10;&#10;This reverts commit 1a51cd7dd30a41f1ed07f2f13a33369fe1b73b90.">
       <created>1574265587480</created>
